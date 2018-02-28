@@ -1,0 +1,90 @@
+{
+    "_id": "c-09",
+    "_parentId":"b-08",
+    "_classes": "module-molder",
+    "_layout": "full",
+    "_type": "component",
+    "_component": "matching",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_canShowFeedback": false,
+    "_canShowModelAnswer": true,
+    "_canShowMarking": true,
+    "_questionWeight": 1,
+    "title": "Matching",
+    "displayTitle": "Matching",
+    "body": "Match <strong>each</strong> of the following <strong>scenarios</strong> to their corresponding correct answers.",
+    "instruction":"",
+    "placeholder": "Select Answer",
+    "_items": [
+        {
+            "text": "Scenario A",
+            "_options": [
+                {
+                    "text": "Option 1",
+                    "_isCorrect": false
+                },
+                {
+                    "text": "Option 2",
+                    "_isCorrect": true
+                },
+                {
+                    "text": "Option 3",
+                    "_isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "Scenario B",
+            "_options": [
+                {
+                    "text": "Option 1",
+                    "_isCorrect": false
+                },
+                {
+                    "text": "Option 2",
+                    "_isCorrect": true
+                },
+                {
+                    "text": "Option 3",
+                    "_isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "Scenario C",
+            "_options": [
+                {
+                    "text": "Option 1",
+                    "_isCorrect": false
+                },
+                {
+                    "text": "Option 2",
+                    "_isCorrect": true
+                },
+                {
+                    "text": "Option 3",
+                    "_isCorrect": false
+                }
+            ]
+        } 
+    ],
+    "_CorrectMarkingFeedbackTitle": "Yes, that’s correct!",
+    "_IncorrectMarkingFeedbackTitle": "That's incorrect.",
+    "_PartlyCorrectMarkingFeedbackTitle": "That's not quite right.",    
+    "_feedback":{
+        "correct":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id hendrerit magna. Phasellus sed sollicitudin justo. Maecenas nec rutrum mi. Aliquam tristique pretium bibendum. Curabitur varius mi vel consequat malesuada. Sed pretium lacus a semper faucibus. Aliquam tristique pretium bibendum. Curabitur varius mi vel consequat malesuada. Sed pretium lacus a semper faucibus. Aliquam tristique pretium bibendum. Curabitur varius mi vel consequat malesuada. Sed pretium lacus a semper faucibus.",
+        "_incorrect": {
+          "notFinal": "",
+          "final": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id hendrerit magna. Phasellus sed sollicitudin justo. Maecenas nec rutrum mi. Aliquam tristique pretium bibendum. Curabitur varius mi vel consequat malesuada. Sed pretium lacus a semper faucibus. Aliquam tristique pretium bibendum. Curabitur varius mi vel consequat malesuada. Sed pretium lacus a semper faucibus. Aliquam tristique pretium bibendum. Curabitur varius mi vel consequat malesuada. Sed pretium lacus a semper faucibus."
+        },
+        "_partlyCorrect": {
+          "notFinal": "",
+          "final": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id hendrerit magna. Phasellus sed sollicitudin justo. Maecenas nec rutrum mi. Aliquam tristique pretium bibendum. Curabitur varius mi vel consequat malesuada. Sed pretium lacus a semper faucibus. Aliquam tristique pretium bibendum. Curabitur varius mi vel consequat malesuada. Sed pretium lacus a semper faucibus. Aliquam tristique pretium bibendum. Curabitur varius mi vel consequat malesuada. Sed pretium lacus a semper faucibus."
+        }
+  },   
+    "_pageLevelProgress": {
+        "_isEnabled": false
+    }
+  },

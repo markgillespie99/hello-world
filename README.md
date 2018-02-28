@@ -1,4 +1,4 @@
-# hello-world
+# Guideline Document
 
 Hello there, my name is Mark and I am new to GitHub. 
 

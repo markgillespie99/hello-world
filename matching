@@ -14,7 +14,7 @@
     "_questionWeight": 1,
     "title": "Matching",
     "displayTitle": "Matching",
-    "body": "Align <strong>each</strong> of the following <strong>scenarios</strong> to their corresponding correct answers.",
+    "body": "Match <strong>each</strong> of the following <strong>scenarios</strong> to their corresponding correct answers.",
     "instruction":"",
     "placeholder": "Select Answer",
     "_items": [

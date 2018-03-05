@@ -3,11 +3,7 @@ name: Mark Gillespie
 city: Derry
 main_team: WBT-US (TCCS)
 ---
----
-Header1: Title
-Header2: Title
-Header3: Title
----
+
 Hey everyone, I'm Mark.
 
 I started working at InVision on 25th October 2017 as an Instructional Designer. I'm currently engaged due to get married to my partner of 8 years, Justine, in April 2018. As of yet we have no children but who knows what the future holds? 
